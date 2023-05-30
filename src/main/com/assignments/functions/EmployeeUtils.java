@@ -1,4 +1,4 @@
-package com.assignments;
+package com.assignments.functions;
 
 import java.util.function.Function;
 import java.util.function.Predicate;

@@ -1,4 +1,4 @@
-package com.assignments;
+package com.assignments.functions;
 
 public class Employee {
 
