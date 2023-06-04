@@ -13,8 +13,7 @@ public class StreamsTest {
   public void test(){
     List<String> countries = Arrays.asList("India","China","Chile","Canada","USA");
 
-    streamsDemo.printCountriesAfterCapitalizingAndFilteringSorting(countries);
+    streamsDemo.capitalizingAndFilteringSorting(countries);
     System.out.println("Test over");
-    System.out.println(countries);
   }
 }
